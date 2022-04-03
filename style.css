@@ -1,0 +1,20 @@
+h1{
+font-size: 30px;
+text-align: center;
+font-family: Calibri, sans-serif;
+color: #de7471
+}
+
+p{
+font-size: 20px;
+text-align: left;
+font-family: Calibri, sans-serif;
+}
+
+body {
+background-color: #FFFFFF;
+}
+
+footer {
+	text-align:  center;
+}
